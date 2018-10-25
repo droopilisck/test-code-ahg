@@ -1,0 +1,12 @@
+[
+    {"id": 1, "name": "Smokey", "birthday": "2017-11-17T08:34:32", "species": "cat", "race":"German Rex", "vac1": true, "vac2": false, "vac3": false},
+    {"id": 2, "name": "Tina", "birthday": "2017-11-17T08:34:32", "species": "dog", "race":"Golden retriever", "vac1": true, "vac2": false, "vac3": true},
+    {"id": 3, "name": "Ginger", "birthday": "2017-11-17T08:34:32", "species": "cat", "race": "Munchkin", "vac1": false, "vac2": true, "vac3": false},
+    {"id": 4, "name": "Paws", "birthday": "2017-11-17T08:34:32", "species": "other", "race": "Hamster", "vac1": true, "vac2": false, "vac3": true},
+    {"id": 5, "name": "Kimba", "birthday": "2017-08-17T08:34:32", "species": "cat", "race": "Scottish Fold", "vac1": true, "vac2": false, "vac3": false},
+    {"id": 6, "name": "Squirtle", "birthday": "2017-11-17T08:34:32", "species": "other", "race":"Turtle", "vac1": false, "vac2": true, "vac3": true},
+    {"id": 7, "name": "Naty", "birthday": "2017-11-17T08:34:32", "species": "dog", "race": "Fox Terrier", "vac1": true, "vac2": false, "vac3": true},
+    {"id": 8, "name": "Lily", "birthday": "2017-09-17T08:34:32", "species": "dog", "race": "Bull Terrier", "vac1": true, "vac2": false, "vac3": false},
+    {"id": 9, "name": "Crush", "birthday": "2017-10-17T08:34:32", "species": "other", "race": "Turtle", "vac1": false, "vac2": true, "vac3": false},
+    {"id": 10, "name": "Patches", "birthday": "2017-11-17T08:34:32", "species": "cat", "race": "Ragdoll", "vac1": true, "vac2": false, "vac3": true}
+  ]
